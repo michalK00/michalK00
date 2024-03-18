@@ -1,8 +1,8 @@
-### Hi there 👋
+
 
 <!--
 **michalK00/michalK00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![An image of @michalk00's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/michalk00)](https://holopin.io/@michalk00)
