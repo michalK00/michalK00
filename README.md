@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋, I'm Michał Klemens
 
-I am a student of Applied Computer Science at the Wrocław University of Science and Technology
+I am a masters student of Computer Science at Aarhus University
 
 #### Languages and Tools:
 <p align="left"> 
